@@ -1,0 +1,10 @@
+streamlit
+pypdf
+pdf2image
+easyocr
+opencv-python
+pillow
+sentence-transformers
+faiss-cpu
+ollama
+python -m rag.vector_store
